@@ -1,0 +1,17 @@
+# General
+.env
+__pycache__/
+*.pyc
+node_modules/
+
+# VSCode
+.vscode/
+
+# Python
+backend/venv/
+
+# React
+frontend/build/
+
+# Vite build
+frontend/dist/
